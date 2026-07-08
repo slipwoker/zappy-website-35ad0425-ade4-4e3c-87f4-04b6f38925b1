@@ -7,41 +7,41 @@
 ## Pages
 
 ### בית
-https://-35ad0425.zappy5.app
+https://example.com
 מכון יופי וציפורניים מוביל ברמת גן עם דירוג 4.6 מ-283 חוות דעת. מניקור, פדיקור, לק ג&#39;ל, טיפולי פנים, שעווה ולייזר במקום אחד. קבעי תור עוד היום!
 
 ### שירותים
-https://-35ad0425.zappy5.app/services
+https://example.com/services
 מגוון שירותי ציפורניים ויופי: לק ג&#39;ל, בניית ציפורניים, תוספות ריסים, שעווה ברזילאית, איפור קבוע ועוד. טיפולים מקצועיים לגברים, נשים וילדים. בואי להתפנק!
 
 ### חוות דעת
-https://-35ad0425.zappy5.app/reviews
+https://example.com/reviews
 283 לקוחות מרוצות העניקו לנו 4.6 כוכבים! קראי חוות דעת אמיתיות על מניקור, טיפולי יופי ושירות אישי שהפך אותנו למכון המוביל ברמת גן. גם את מוזמנת להצטרף.
 
 ### אודות
-https://-35ad0425.zappy5.app/about
+https://example.com/about
 מכון יופי וציפורניים משפחתי בלב רמת גן עם ניסיון עשיר, צוות מיומן ואווירה מפנקת. אנחנו מציעים מניקור, פדיקור, טיפולי פנים ולייזר – באהבה גדולה לכל לקוחה.
 
 ### צור קשר
-https://-35ad0425.zappy5.app/contact
+https://example.com/contact
 מחפשת מכון ציפורניים ויופי קרוב? צרי איתנו קשר עוד היום לתיאום טיפולי לק ג&#39;ל, ריסים, שעווה ופנים. מיקום נוח ברמת גן עם שירות אדיב וזמין במיוחד עבורך.
 
 ### תודה שפנית אלינו
-https://-35ad0425.zappy5.app/thank-you
+https://example.com/thank-you
 לק ג'ל ברמת גן - תודה שפנית אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-35ad0425.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-35ad0425.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-35ad0425.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -51,8 +51,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-35ad0425.zappy5.app/contact
-- Endpoint: https://-35ad0425.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -81,6 +81,6 @@ Beauty & Nail Salon
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-35ad0425.zappy5.app/sitemap.xml
-- Robots: https://-35ad0425.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-35ad0425.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
