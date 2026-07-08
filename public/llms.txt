@@ -1,0 +1,86 @@
+# לק ג'ל ברמת גן — Generative Engine Optimization Map
+
+> A well-established nail and beauty salon located in Ramat Gan, Israel, with a strong reputation reflected by a 4.6-star rating from 283 reviews. The salon offers a comprehensive range of nail services including manicure, pedicure, gel polish, acrylic nail extensions, nail art, and French manicure, alongside beauty treatments such as lash extensions, lash lifting, waxing, Brazilian waxing, facial treatments, permanent makeup, hair removal, and laser treatments. The business caters to a diverse clientele including men and children, positioning itself as a full-service beauty destination.
+
+---
+
+## Pages
+
+### בית
+https://-35ad0425.zappy5.app
+מכון יופי וציפורניים מוביל ברמת גן עם דירוג 4.6 מ-283 חוות דעת. מניקור, פדיקור, לק ג&#39;ל, טיפולי פנים, שעווה ולייזר במקום אחד. קבעי תור עוד היום!
+
+### שירותים
+https://-35ad0425.zappy5.app/services
+מגוון שירותי ציפורניים ויופי: לק ג&#39;ל, בניית ציפורניים, תוספות ריסים, שעווה ברזילאית, איפור קבוע ועוד. טיפולים מקצועיים לגברים, נשים וילדים. בואי להתפנק!
+
+### חוות דעת
+https://-35ad0425.zappy5.app/reviews
+283 לקוחות מרוצות העניקו לנו 4.6 כוכבים! קראי חוות דעת אמיתיות על מניקור, טיפולי יופי ושירות אישי שהפך אותנו למכון המוביל ברמת גן. גם את מוזמנת להצטרף.
+
+### אודות
+https://-35ad0425.zappy5.app/about
+מכון יופי וציפורניים משפחתי בלב רמת גן עם ניסיון עשיר, צוות מיומן ואווירה מפנקת. אנחנו מציעים מניקור, פדיקור, טיפולי פנים ולייזר – באהבה גדולה לכל לקוחה.
+
+### צור קשר
+https://-35ad0425.zappy5.app/contact
+מחפשת מכון ציפורניים ויופי קרוב? צרי איתנו קשר עוד היום לתיאום טיפולי לק ג&#39;ל, ריסים, שעווה ופנים. מיקום נוח ברמת גן עם שירות אדיב וזמין במיוחד עבורך.
+
+### תודה שפנית אלינו
+https://-35ad0425.zappy5.app/thank-you
+לק ג'ל ברמת גן - תודה שפנית אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-35ad0425.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-35ad0425.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-35ad0425.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-35ad0425.zappy5.app/contact
+- Endpoint: https://-35ad0425.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About לק ג'ל ברמת גן
+A well-established nail and beauty salon located in Ramat Gan, Israel, with a strong reputation reflected by a 4.6-star rating from 283 reviews. The salon offers a comprehensive range of nail services including manicure, pedicure, gel polish, acrylic nail extensions, nail art, and French manicure, alongside beauty treatments such as lash extensions, lash lifting, waxing, Brazilian waxing, facial treatments, permanent makeup, hair removal, and laser treatments. The business caters to a diverse clientele including men and children, positioning itself as a full-service beauty destination.
+
+## Target Audience
+- אנשי מקצוע עסוקים
+- חובבי אופנה
+- משתתפי אירועים מיוחדים
+
+## Industry
+Beauty & Nail Salon
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-35ad0425.zappy5.app/sitemap.xml
+- Robots: https://-35ad0425.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-35ad0425.zappy5.app/llms-full.txt
